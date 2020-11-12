@@ -1,4 +1,4 @@
-# Complex Event Forecasting with full-oder Markov models
+# Complex Event Forecasting with full-order Markov models
 
 If you want to run forecasting with full-order Markov models,
 then the first step is to have compiled your pattern into an automaton,
